@@ -49,8 +49,3 @@ alias unexport='unset'
 # --- alias rm='rm -i'
 # --- alias cp='cp -i'
 # --- alias mv='mv -i'
-
-
-# GIT
-
-alias git-push-u='git push -u origin HEAD'
