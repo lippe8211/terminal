@@ -20,7 +20,7 @@ alias lS='ls -1FSsh'
 alias lart='ls -1Fcart'
 alias lrt='ls -1Fcrt'
 alias la='ls -lAG'
-alias code='/usr/local/bin/code'
+alias code='"/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code"'
 
 # some more ls aliases
 alias zshrc='code ~/.zshrc' # Quick access to the ~/.zshrc file
